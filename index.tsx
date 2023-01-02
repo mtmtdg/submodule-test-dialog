@@ -5,6 +5,7 @@ import { lighterBackdrop } from './defaultStyle';
 import { SimpleDialog, SimpleDialogProps } from './SimpleDialog';
 import { CustomDialogProps } from './useCustomDialog';
 
+
 // 先建一个dialog相关的容器
 const dialogContainerDiv = document.createElement('div');
 document.body.appendChild(dialogContainerDiv);
